@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AI 工具導覽平台",
+  title: "群甡AI Hub",
   description: "公司內部 AI 工具導覽與快速入口",
 };
 
